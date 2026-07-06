@@ -19,7 +19,7 @@
 
 <!-- ═══════════════════════════════ ABOUT ═══════════════════════════════ -->
 
-## &nbsp;🧠 &nbsp;About Me
+## &nbsp; &nbsp;About Me
 
 ```python
 class Ghislian:
@@ -37,15 +37,15 @@ class Ghislian:
 - 🔭 &nbsp;I build **AI-powered applications** with Python, ML & LLMs
 - 🌱 &nbsp;Deep-diving into **RAG, LangChain, vector databases & NLP**
 - 📝 &nbsp;I write about what I learn on **[dev.to/ghislian](https://dev.to/ghislian)**
-- 💼 &nbsp;See my work at **[ghislianml.netlify.app](https://ghislianml.netlify.app/)**
-- 📄 &nbsp;My **[resume / CV](https://drive.google.com/file/d/11tMK2DPDdrtiV3mQfsQkAxSpWpuuG-BT/view?usp=sharing)** is available here
+- 💼 &nbsp;See my work at **[Ghislian.ML](https://ghislianml.netlify.app/)**
+- 📄 &nbsp;My **[resume](https://drive.google.com/file/d/11tMK2DPDdrtiV3mQfsQkAxSpWpuuG-BT/view?usp=sharing)** is available here
 - 💬 &nbsp;Ask me about **ML · Data Science · Python · NLP · LLMs · RAG · LangChain · SQL · Django**
 
 <br/>
 
 <!-- ═══════════════════════════════ TECH STACK ═══════════════════════════════ -->
 
-## &nbsp;🛠️ &nbsp;Tech Stack
+## &nbsp; &nbsp;Tech Stack
 
 <div align="center">
 
@@ -90,7 +90,7 @@ class Ghislian:
 
 <!-- ═══════════════════════════════ GITHUB STATS ═══════════════════════════════ -->
 
-## &nbsp;📊 &nbsp;GitHub Analytics
+## &nbsp; &nbsp;GitHub Analytics
 
 <div align="center">
 
