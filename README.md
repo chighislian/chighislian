@@ -38,7 +38,7 @@ class Ghislian:
 - 🌱 &nbsp;Deep-diving into **RAG, LangChain, vector databases & NLP**
 - 📝 &nbsp;I write about what I learn on **[Dev.to](https://dev.to/ghislian)**
 - 💼 &nbsp;See my work at **[Ghislian.ML](https://ghislianml.netlify.app/)**
-- 📄 &nbsp;My **[resume](https://drive.google.com/file/d/11tMK2DPDdrtiV3mQfsQkAxSpWpuuG-BT/view?usp=sharing)** is available here
+- 📄 &nbsp;My **[resume](https://drive.google.com/file/d/1Ml-pRYDTw7NSmGQhC1oJCWnK1oKdIhON/view?usp=sharing)** is available here
 - 💬 &nbsp;Ask me about **Machine Learning | Data Science | NLP | LLMs | RAG | Python | LangChain | SQL | Django**
 
 <br/>
