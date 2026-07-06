@@ -136,6 +136,6 @@ class Ghislian:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a227,50:0f766e,100:0d9488&height=120&section=footer&reversal=true" width="100%" alt="footer"/>
 
-<sub>⭐ From <a href="https://github.com/chighislian">Ghislian</a> — thanks for stopping by!</sub>
+<sub>⭐ From <a href="https://github.com/chighislian">Ghislian</a> thanks for stopping by </sub>
 
 </div>
