@@ -39,7 +39,8 @@ class Ghislian:
 - 📝 &nbsp;I write about what I learn on **[Dev.TO](https://dev.to/ghislian)**
 - 💼 &nbsp;See my work at **[Ghislian.ML](https://ghislianml.netlify.app/)**
 - 📄 &nbsp;My **[resume](https://drive.google.com/file/d/11tMK2DPDdrtiV3mQfsQkAxSpWpuuG-BT/view?usp=sharing)** is available here
-- 💬 &nbsp;Ask me about **ML · Data Science · Python · NLP · LLMs · RAG · LangChain · SQL · Django**
+- 💬 &nbsp;Ask me about **[Machine Learning] [Data Science] [Python] [NLP] [LLMs]
+[RAG] [LangChain] [SQL] [Django]**
 
 <br/>
 
