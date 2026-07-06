@@ -94,31 +94,18 @@ class Ghislian:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chighislian&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=14b8a6&icon_color=c9a227&text_color=9fb3c8" alt="stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chighislian&layout=compact&hide_border=true&bg_color=0d1117&title_color=14b8a6&text_color=9fb3c8&langs_count=8" alt="top languages"/>
+![Followers](https://img.shields.io/github/followers/chighislian?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=14b8a6)
+![Profile Views](https://komarev.com/ghpvc/?username=chighislian&style=for-the-badge&color=0d9488&label=PROFILE+VIEWS)
+![Years Coding](https://img.shields.io/badge/Coding%20since-2021-c9a227?style=for-the-badge&labelColor=0d1117)
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=chighislian&hide_border=true&background=0d1117&ring=14b8a6&fire=c9a227&currStreakLabel=14b8a6&sideLabels=9fb3c8&dates=6b7684&sideNums=9fb3c8&currStreakNum=ffffff&stroke=1f2937" alt="streak"/>
+<!-- Streak card (self-updating, reliable) -->
+<img src="https://streak-stats.demolab.com?user=chighislian&hide_border=true&background=0d1117&ring=14b8a6&fire=c9a227&currStreakLabel=14b8a6&sideLabels=9fb3c8&dates=6b7684&sideNums=9fb3c8&currStreakNum=ffffff&stroke=1f2937" alt="GitHub streak" width="80%"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<!-- ═══════════════════════════════ TROPHIES ═══════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=chighislian&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════ CONTRIBUTION SNAKE (optional) ═══════════════════════════════ -->
-
-<div align="center">
-
+<!-- Animated contribution snake (self-hosted in your repo — never rate-limited) -->
 <img src="https://raw.githubusercontent.com/chighislian/chighislian/output/snake.svg" alt="contribution snake" width="100%"/>
 
 </div>
