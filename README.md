@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ibekweghislian@gmail**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11tMK2DPDdrtiV3mQfsQkAxSpWpuuG-BT/view?usp=sharing](https://drive.google.com/file/d/11tMK2DPDdrtiV3mQfsQkAxSpWpuuG-BT/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11tMK2DPDdrtiV3mQfsQkAxSpWpuuG-BT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
