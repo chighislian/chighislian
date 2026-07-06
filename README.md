@@ -1,9 +1,9 @@
 <h1 align="center">Hi I'm Ghislian.ml</h1>
 <h3 align="center">Building AI-Powered Applications with Python, Machine Learning & LLMs</h3>
 
-- 👨‍💻 All of my projects are available at [https://ghislianml.netlify.app/](https://ghislianml.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ghislianml.netlify.app/)
 
-- 📝 I regularly write articles on [https://dev.to/ghislian](https://dev.to/ghislian)
+- 📝 I regularly write articles on [Dev,to](https://dev.to/ghislian)
 
 - 💬 Ask me about **Machine Learning, Data Science, Python, NLP, LLMs, RAG, LangChain, Data Analysis, SQL, Django**
 
