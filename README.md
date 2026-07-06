@@ -1,24 +1,154 @@
-<h1 align="center">Hi I'm Ghislian.ml</h1>
-<h3 align="center">Building AI-Powered Applications with Python, Machine Learning & LLMs</h3>
+<!-- ═══════════════════════════════ HEADER ═══════════════════════════════ -->
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://ghislianml.netlify.app/)
+<div align="center">
 
-- 📝 I regularly write articles on [Dev,to](https://dev.to/ghislian)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:0f766e,100:c9a227&height=220&section=header&text=Ghislian%20Ibekwe&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header banner"/>
 
-- 💬 Ask me about **Machine Learning, Data Science, Python, NLP, LLMs, RAG, LangChain, Data Analysis, SQL, Django**
+<!-- Typing tagline -->
+<a href="https://ghislianml.netlify.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=3000&pause=900&color=14B8A6&center=true&vCenter=true&width=680&lines=Building+AI-Powered+Applications;Python+%7C+Machine+Learning+%7C+LLMs;RAG+%C2%B7+LangChain+%C2%B7+NLP+%C2%B7+Data+Science;Turning+data+into+intelligent+products" alt="Typing SVG"/>
+</a>
 
-- 📫 How to reach me **ibekweghislian@gmail**
+<br/>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11tMK2DPDdrtiV3mQfsQkAxSpWpuuG-BT/view?usp=sharing)
+<img src="https://komarev.com/ghpvc/?username=Ghislianml&label=Profile%20views&color=0d9488&style=flat-square" alt="profile views"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ghislian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ghislian" height="30" width="40" /></a>
-<a href="https://twitter.com/chi_ghislian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chi_ghislian" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chigozieibekwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chigozieibekwe" height="30" width="40" /></a>
-<a href="https://instagram.com/izzghislian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="izzghislian" height="30" width="40" /></a>
-<a href="https://medium.com/@chigozie ghislian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chigozie ghislian" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<br/>
+
+<!-- ═══════════════════════════════ ABOUT ═══════════════════════════════ -->
+
+## &nbsp;🧠 &nbsp;About Me
+
+```python
+class Ghislian:
+    def __init__(self):
+        self.role      = "AI / ML Engineer"
+        self.location  = "Owerri, Nigeria"
+        self.focus     = ["Machine Learning", "LLMs", "RAG", "NLP"]
+        self.stack     = ["Python", "PyTorch", "LangChain", "Django"]
+        self.currently = "Building intelligent, data-driven products"
+
+    def say_hi(self):
+        return "Let's build something impactful together 🚀"
+```
+
+- 🔭 &nbsp;I build **AI-powered applications** with Python, ML & LLMs
+- 🌱 &nbsp;Deep-diving into **RAG, LangChain, vector databases & NLP**
+- 📝 &nbsp;I write about what I learn on **[dev.to/ghislian](https://dev.to/ghislian)**
+- 💼 &nbsp;See my work at **[ghislianml.netlify.app](https://ghislianml.netlify.app/)**
+- 📄 &nbsp;My **[resume / CV](https://drive.google.com/file/d/11tMK2DPDdrtiV3mQfsQkAxSpWpuuG-BT/view?usp=sharing)** is available here
+- 💬 &nbsp;Ask me about **ML · Data Science · Python · NLP · LLMs · RAG · LangChain · SQL · Django**
+
+<br/>
+
+<!-- ═══════════════════════════════ TECH STACK ═══════════════════════════════ -->
+
+## &nbsp;🛠️ &nbsp;Tech Stack
+
+<div align="center">
+
+**Languages & Core**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**AI / Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Data & Analysis**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+
+**Backend & Databases**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Cloud & DevOps**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════ GITHUB STATS ═══════════════════════════════ -->
+
+## &nbsp;📊 &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ghislianml&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=14b8a6&icon_color=c9a227&text_color=9fb3c8" alt="stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghislianml&layout=compact&hide_border=true&bg_color=0d1117&title_color=14b8a6&text_color=9fb3c8&langs_count=8" alt="top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Ghislianml&hide_border=true&background=0d1117&ring=14b8a6&fire=c9a227&currStreakLabel=14b8a6&sideLabels=9fb3c8&dates=6b7684&sideNums=9fb3c8&currStreakNum=ffffff&stroke=1f2937" alt="streak"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════ TROPHIES ═══════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ghislianml&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════ CONTRIBUTION SNAKE (optional) ═══════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ghislianml/Ghislianml/output/snake.svg" alt="contribution snake" width="100%"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════ CONNECT ═══════════════════════════════ -->
+
+## &nbsp;🤝 &nbsp;Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d9488?style=for-the-badge&logo=netlify&logoColor=white)](https://ghislianml.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chigozieibekwe)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ghislian)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/chi_ghislian)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chigozie.ghislian)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/izzghislian)
+[![Email](https://img.shields.io/badge/Email-c9a227?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibekweghislian@gmail.com)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════ FOOTER ═══════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a227,50:0f766e,100:0d9488&height=120&section=footer&reversal=true" width="100%" alt="footer"/>
+
+<sub>⭐ From <a href="https://github.com/Ghislianml">Ghislian</a> — thanks for stopping by!</sub>
+
+</div>
