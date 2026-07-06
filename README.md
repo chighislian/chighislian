@@ -114,7 +114,7 @@ class Ghislian:
 
 <!-- ═══════════════════════════════ CONNECT ═══════════════════════════════ -->
 
-## &nbsp;🤝 &nbsp;Connect With Me
+## &nbsp; &nbsp;Connect With Me
 
 <div align="center">
 
