@@ -31,7 +31,7 @@ class Ghislian:
         self.currently = "Building intelligent, data-driven products"
 
     def say_hi(self):
-        return "Let's build something impactful together 🚀"
+        return "Let's build something impactful together"
 ```
 
 - 🔭 &nbsp;I build **AI-powered applications** with Python, ML & LLMs
