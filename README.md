@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ghislianml&label=Profile%20views&color=0d9488&style=flat-square" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=chighislian&label=Profile%20views&color=0d9488&style=flat-square" alt="profile views"/>
 
 </div>
 
@@ -94,12 +94,12 @@ class Ghislian:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ghislianml&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=14b8a6&icon_color=c9a227&text_color=9fb3c8" alt="stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghislianml&layout=compact&hide_border=true&bg_color=0d1117&title_color=14b8a6&text_color=9fb3c8&langs_count=8" alt="top languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chighislian&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=14b8a6&icon_color=c9a227&text_color=9fb3c8" alt="stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chighislian&layout=compact&hide_border=true&bg_color=0d1117&title_color=14b8a6&text_color=9fb3c8&langs_count=8" alt="top languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Ghislianml&hide_border=true&background=0d1117&ring=14b8a6&fire=c9a227&currStreakLabel=14b8a6&sideLabels=9fb3c8&dates=6b7684&sideNums=9fb3c8&currStreakNum=ffffff&stroke=1f2937" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=chighislian&hide_border=true&background=0d1117&ring=14b8a6&fire=c9a227&currStreakLabel=14b8a6&sideLabels=9fb3c8&dates=6b7684&sideNums=9fb3c8&currStreakNum=ffffff&stroke=1f2937" alt="streak"/>
 
 </div>
 
@@ -109,7 +109,7 @@ class Ghislian:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ghislianml&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=chighislian&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
 
 </div>
 
@@ -119,7 +119,7 @@ class Ghislian:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ghislianml/Ghislianml/output/snake.svg" alt="contribution snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/chighislian/chighislian/output/snake.svg" alt="contribution snake" width="100%"/>
 
 </div>
 
@@ -149,6 +149,6 @@ class Ghislian:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a227,50:0f766e,100:0d9488&height=120&section=footer&reversal=true" width="100%" alt="footer"/>
 
-<sub>⭐ From <a href="https://github.com/Ghislianml">Ghislian</a> — thanks for stopping by!</sub>
+<sub>⭐ From <a href="https://github.com/chighislian">Ghislian</a> — thanks for stopping by!</sub>
 
 </div>
