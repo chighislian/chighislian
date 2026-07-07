@@ -11,15 +11,18 @@ jobs:
   purge-cache:
     runs-on: ubuntu-latest
     steps:
-      - name: Purge cached README images
+      - name: Purge cached profile images
         run: |
-          echo "Fetching rendered README to find cached image URLs..."
-          curl -s -H "Accept: application/vnd.github.html+json" \
-            "https://api.github.com/repos/${{ github.repository }}/readme" \
+          PROFILE="https://github.com/${{ github.repository_owner }}"
+          echo "Reading profile page: $PROFILE"
+          URLS=$(curl -s -A "Mozilla/5.0" "$PROFILE" \
             | grep -oE 'https://camo\.githubusercontent\.com/[a-zA-Z0-9]+' \
-            | sort -u \
-            | while read -r url; do
-                echo "Purging: $url"
-                curl -s -X PURGE "$url" > /dev/null
-              done
-          echo "Done. Fresh images will load on next visit."
+            | sort -u)
+          COUNT=$(echo "$URLS" | grep -c . || true)
+          echo "Found $COUNT cached images to purge."
+          echo "$URLS" | while read -r url; do
+            [ -z "$url" ] && continue
+            echo "Purging: $url"
+            curl -s -X PURGE "$url" > /dev/null
+          done
+          echo "Done. Hard-refresh your profile (Ctrl+F5) to see fresh numbers."
