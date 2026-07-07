@@ -102,7 +102,8 @@ class Ghislian:
 <br/><br/>
 
 <!-- Streak card (self-updating, reliable) -->
-<img src="https://streak-stats.demolab.com?user=chighislian&hide_border=true&background=0d1117&ring=14b8a6&fire=c9a227&currStreakLabel=14b8a6&sideLabels=9fb3c8&dates=6b7684&sideNums=9fb3c8&currStreakNum=ffffff&stroke=1f2937" alt="GitHub streak" width="80%"/>
+<img src="https://raw.githubusercontent.com/chighislian/chighislian/main/assets/streak.svg" alt="GitHub streak" width="80%"/>
+
 
 <br/><br/>
 
