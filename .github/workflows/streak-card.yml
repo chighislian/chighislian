@@ -1,0 +1,33 @@
+name: Generate Streak Card
+
+# Same trick that makes your snake stay fresh: download the streak card,
+# commit it into your repo, and serve it from raw.githubusercontent.com
+# (which GitHub only caches for ~5 min — no more multi-day freezes).
+# Manual trigger only, so it costs ~zero Actions minutes.
+
+on:
+  workflow_dispatch:   # click "Run workflow" whenever you want it refreshed
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download the latest streak card
+        run: |
+          mkdir -p assets
+          curl -s "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&hide_border=true&background=0d1117&ring=14b8a6&fire=c9a227&currStreakLabel=14b8a6&sideLabels=9fb3c8&dates=6b7684&sideNums=9fb3c8&currStreakNum=ffffff&stroke=1f2937" \
+            -o assets/streak.svg
+          echo "Saved streak card ($(wc -c < assets/streak.svg) bytes)"
+
+      - name: Commit if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/streak.svg
+          git commit -m "chore: refresh streak card" || echo "No change to commit"
+          git push
