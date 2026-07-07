@@ -1,14 +1,11 @@
 name: Refresh README Images
 
-# Keeps the streak card, badges, and other external images on your
-# profile README up to date by clearing GitHub's image cache (Camo)
-# on a schedule. The data was always live — this just forces GitHub
-# to re-fetch the picture more often.
+# Manual refresh only — no scheduled runs, so it uses ~zero Actions minutes.
+# Click "Run workflow" in the Actions tab whenever you want your profile
+# cards (streak, followers, views) to pull fresh numbers.
 
 on:
-  schedule:
-    - cron: "0 */1 * * *"   # every 4 hours
-  workflow_dispatch:          # lets you run it manually from the Actions tab
+  workflow_dispatch:   # the only trigger — runs when YOU click it
 
 jobs:
   purge-cache:
