@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:0f766e,100:c9a227&height=220&section=header&text=Ghislian%20Ibekwe&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header banner"/>
 
 <!-- Typing tagline -->
-<a href="https://ghislianml.netlify.app/">
+<a href="https://ibekwe.netlify.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=3000&pause=900&color=14B8A6&center=true&vCenter=true&width=680&lines=Building+AI-Powered+Applications;Python+%7C+Machine+Learning+%7C+LLMs;RAG+%C2%B7+LangChain+%C2%B7+NLP+%C2%B7+Data+Science;Turning+data+into+intelligent+products" alt="Typing SVG"/>
 </a>
 
