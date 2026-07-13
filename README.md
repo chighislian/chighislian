@@ -2,16 +2,16 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2979ff,50:1565c0,100:c9a227&height=220&section=header&text=Ghislian%20Ibekwe&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b91c1c,50:7f1d1d,100:c9a227&height=220&section=header&text=Ghislian%20Ibekwe&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header banner"/>
 
 <!-- Typing tagline -->
 <a href="https://ibekwe.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=3000&pause=900&color=2979FF&center=true&vCenter=true&width=680&lines=Building+AI-Powered+Applications;Python+%7C+Machine+Learning+%7C+LLMs;RAG+%C2%B7+LangChain+%C2%B7+NLP+%C2%B7+Data+Science;Turning+data+into+intelligent+products" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=3000&pause=900&color=B91C1C&center=true&vCenter=true&width=680&lines=Building+AI-Powered+Applications;Python+%7C+Machine+Learning+%7C+LLMs;RAG+%C2%B7+LangChain+%C2%B7+NLP+%C2%B7+Data+Science;Turning+data+into+intelligent+products" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=chighislian&label=Profile%20views&color=2979ff&style=flat-square" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=chighislian&label=Profile%20views&color=b91c1c&style=flat-square" alt="profile views"/>
 
 </div>
 
@@ -95,8 +95,8 @@ class Ghislian:
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/chighislian?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=2979ff)
-![Profile Views](https://komarev.com/ghpvc/?username=chighislian&style=for-the-badge&color=2979ff&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/chighislian?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=b91c1c)
+![Profile Views](https://komarev.com/ghpvc/?username=chighislian&style=for-the-badge&color=b91c1c&label=PROFILE+VIEWS)
 ![Years Coding](https://img.shields.io/badge/Coding%20since-2021-c9a227?style=for-the-badge&labelColor=0d1117)
 
 <br/><br/>
@@ -120,7 +120,7 @@ class Ghislian:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2979ff?style=for-the-badge&logo=netlify&logoColor=white)](https://ibekwe.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-b91c1c?style=for-the-badge&logo=netlify&logoColor=white)](https://ibekwe.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chigozieibekwe)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ghislian)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/chi_ghislian)
@@ -137,7 +137,7 @@ class Ghislian:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a227,50:1565c0,100:2979ff&height=120&section=footer&reversal=true" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a227,50:7f1d1d,100:b91c1c&height=120&section=footer&reversal=true" width="100%" alt="footer"/>
 
 <sub>⭐ From <a href="https://github.com/chighislian">Ghislian</a> thanks for stopping by </sub>
 
