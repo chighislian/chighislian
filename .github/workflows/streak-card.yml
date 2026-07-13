@@ -21,7 +21,7 @@ jobs:
       - name: Fetch streak card (with retries + validation)
         run: |
           mkdir -p assets
-          URL="https://streak-stats.demolab.com?user=${{ github.repository_owner }}&hide_border=true&background=0d1117&ring=14b8a6&fire=c9a227&currStreakLabel=14b8a6&sideLabels=9fb3c8&dates=6b7684&sideNums=9fb3c8&currStreakNum=ffffff&stroke=1f2937"
+          URL="https://streak-stats.demolab.com?user=${{ github.repository_owner }}&hide_border=true&background=0d1117&ring=1d4ed8&fire=c9a227&currStreakLabel=1d4ed8&sideLabels=9fb3c8&dates=6b7684&sideNums=9fb3c8&currStreakNum=ffffff&stroke=1f2937"
 
           for attempt in 1 2 3 4 5; do
             echo "Attempt $attempt..."
@@ -30,17 +30,12 @@ jobs:
             SIZE=$(wc -c < /tmp/streak.svg)
             echo "  downloaded $SIZE bytes"
 
-            # Guard 1: must be a real SVG
             if ! head -c 500 /tmp/streak.svg | grep -qi "<svg"; then
               echo "  ✗ not an SVG, retrying"; sleep 15; continue
             fi
-
-            # Guard 2: must NOT be the service's error card
             if grep -qi "Failed to retrieve\|Could not find\|error" /tmp/streak.svg; then
               echo "  ✗ error card returned, retrying"; sleep 15; continue
             fi
-
-            # Guard 3: a real card is substantial, not a stub
             if [ "$SIZE" -lt 2000 ]; then
               echo "  ✗ suspiciously small, retrying"; sleep 15; continue
             fi
