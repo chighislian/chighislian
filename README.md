@@ -101,6 +101,13 @@ class Ghislian:
 
 <br/><br/>
 
+<!-- Stats card + top languages (self-hosted, reliable) -->
+<img src="https://raw.githubusercontent.com/chighislian/chighislian/main/assets/stats.svg" alt="GitHub stats" height="170"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/chighislian/chighislian/main/assets/top-langs.svg" alt="Top languages" height="170"/>
+
+<br/><br/>
+
 <!-- Streak card (self-updating, reliable) -->
 <img src="https://raw.githubusercontent.com/chighislian/chighislian/main/assets/streak.svg" alt="GitHub streak" width="80%"/>
 
