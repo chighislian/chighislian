@@ -1,14 +1,9 @@
 name: Generate Stats Cards
 
-# Uses the OFFICIAL github-readme-stats-action, which renders the cards
-# inside this workflow using YOUR token — private commits included, and
-# no shared server to rate-limit. Commits stats.svg + top-langs.svg to
-# your repo, served reliably from raw like your streak and snake.
-
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 6 * * *"   # daily at 06:00 UTC (delete these 2 lines for manual-only)
+    - cron: "0 6 * * *"
 
 permissions:
   contents: write
@@ -23,7 +18,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=1d4ed8&icon_color=60a5fa&text_color=9fb3c8
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=1d4ed8&bg_color=0d1117&title_color=1d4ed8&icon_color=60a5fa&text_color=9fb3c8
           path: assets/stats.svg
           token: ${{ secrets.GH_STATS_PAT }}
 
@@ -31,7 +26,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=1d4ed8&text_color=9fb3c8
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=false&border_color=1d4ed8&bg_color=0d1117&title_color=1d4ed8&text_color=9fb3c8
           path: assets/top-langs.svg
           token: ${{ secrets.GH_STATS_PAT }}
 
