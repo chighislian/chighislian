@@ -1,13 +1,14 @@
-name: Generate Streak Card
+name: Generate Stats Cards
 
-# Downloads the streak card, VALIDATES it, and only commits if it's a real
-# card. If the service returns an error card or junk, the previous good
-# card is kept and the run fails loudly instead of silently overwriting it.
+# Uses the OFFICIAL github-readme-stats-action, which renders the cards
+# inside this workflow using YOUR token — private commits included, and
+# no shared server to rate-limit. Commits stats.svg + top-langs.svg to
+# your repo, served reliably from raw like your streak and snake.
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 6 * * *"   # once a day at 06:00 UTC (delete these 2 lines for manual-only)
+    - cron: "0 6 * * *"   # daily at 06:00 UTC (delete these 2 lines for manual-only)
 
 permissions:
   contents: write
@@ -18,40 +19,26 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch streak card (with retries + validation)
-        run: |
-          mkdir -p assets
-          URL="https://streak-stats.demolab.com?user=${{ github.repository_owner }}&hide_border=true&background=0d1117&ring=1d4ed8&fire=c9a227&currStreakLabel=1d4ed8&sideLabels=9fb3c8&dates=6b7684&sideNums=9fb3c8&currStreakNum=ffffff&stroke=1f2937"
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=1d4ed8&icon_color=60a5fa&text_color=9fb3c8
+          path: assets/stats.svg
+          token: ${{ secrets.GH_STATS_PAT }}
 
-          for attempt in 1 2 3 4 5; do
-            echo "Attempt $attempt..."
-            curl -s --max-time 30 "$URL" -o /tmp/streak.svg || true
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=1d4ed8&text_color=9fb3c8
+          path: assets/top-langs.svg
+          token: ${{ secrets.GH_STATS_PAT }}
 
-            SIZE=$(wc -c < /tmp/streak.svg)
-            echo "  downloaded $SIZE bytes"
-
-            if ! head -c 500 /tmp/streak.svg | grep -qi "<svg"; then
-              echo "  ✗ not an SVG, retrying"; sleep 15; continue
-            fi
-            if grep -qi "Failed to retrieve\|Could not find\|error" /tmp/streak.svg; then
-              echo "  ✗ error card returned, retrying"; sleep 15; continue
-            fi
-            if [ "$SIZE" -lt 2000 ]; then
-              echo "  ✗ suspiciously small, retrying"; sleep 15; continue
-            fi
-
-            echo "  ✓ valid card"
-            cp /tmp/streak.svg assets/streak.svg
-            exit 0
-          done
-
-          echo "::error::All 5 attempts returned an invalid card. Keeping the existing good card."
-          exit 1
-
-      - name: Commit if it changed
+      - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/streak.svg
-          git commit -m "chore: refresh streak card" || { echo "No change to commit"; exit 0; }
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg assets/top-langs.svg
+          git commit -m "chore: refresh stats cards" || { echo "No change"; exit 0; }
           git push
