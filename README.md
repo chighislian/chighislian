@@ -99,20 +99,14 @@ class Ghislian:
 ![Profile Views](https://komarev.com/ghpvc/?username=chighislian&style=for-the-badge&color=1d4ed8&label=PROFILE+VIEWS)
 ![Years Coding](https://img.shields.io/badge/Coding%20since-2021-c9a227?style=for-the-badge&labelColor=0d1117)
 
-<br/><br/>
+<br/>
 
 <!-- Stats card + top languages (self-hosted, reliable) -->
-<img src="https://raw.githubusercontent.com/chighislian/chighislian/main/assets/stats.svg" alt="GitHub stats" height="170"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/chighislian/chighislian/main/assets/top-langs.svg" alt="Top languages" height="170"/>
-
-<br/><br/>
+<img src="https://raw.githubusercontent.com/chighislian/chighislian/main/assets/stats.svg" alt="GitHub stats" height="165"/>
+<img src="https://raw.githubusercontent.com/chighislian/chighislian/main/assets/top-langs.svg" alt="Top languages" height="165"/>
 
 <!-- Streak card (self-updating, reliable) -->
-<img src="https://raw.githubusercontent.com/chighislian/chighislian/main/assets/streak.svg" alt="GitHub streak" width="80%"/>
-
-
-<br/><br/>
+<img src="https://raw.githubusercontent.com/chighislian/chighislian/main/assets/streak.svg" alt="GitHub streak" width="72%"/>
 
 <!-- Animated contribution snake (self-hosted in your repo — never rate-limited) -->
 <img src="https://raw.githubusercontent.com/chighislian/chighislian/output/snake.svg" alt="contribution snake" width="100%"/>
