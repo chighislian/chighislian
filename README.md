@@ -11,7 +11,10 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=chighislian&label=Profile%20views&color=1d4ed8&style=flat-square" alt="profile views"/>
+<!-- Status line: what a recruiter actually needs to know -->
+<img src="https://img.shields.io/badge/Open%20to%20Work-1d4ed8?style=flat-square&labelColor=0d1117" alt="open to work"/>
+<img src="https://img.shields.io/badge/Owerri,%20Nigeria-0d1117?style=flat-square&logo=googlemaps&logoColor=1d4ed8" alt="location"/>
+<img src="https://img.shields.io/badge/Remote%20Friendly-0d1117?style=flat-square&logo=googlemeet&logoColor=1d4ed8" alt="remote friendly"/>
 
 </div>
 
