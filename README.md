@@ -97,7 +97,7 @@ class Ghislian:
 
 ![Followers](https://img.shields.io/github/followers/chighislian?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=1d4ed8)
 ![Profile Views](https://komarev.com/ghpvc/?username=chighislian&style=for-the-badge&color=1d4ed8&label=PROFILE+VIEWS)
-![Years Coding](https://img.shields.io/badge/Coding%20since-2021-c9a227?style=for-the-badge&labelColor=0d1117)
+
 
 <br/>
 
