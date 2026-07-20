@@ -24,7 +24,6 @@
 
 ## &nbsp; &nbsp;About Me
 
-```python
 👋 Hey, I'm Ghislian Chigozie Ibekwe
 
 I'm an **AI & Machine Learning Engineer** passionate about building intelligent software powered by data.
@@ -33,7 +32,6 @@ I specialize in **Machine Learning, Large Language Models (LLMs), Retrieval-Augm
 
 Currently, I'm expanding my expertise in **AI Agents, LLM Engineering, and scalable AI applications**, while sharing my learning through technical writing and open-source projects.
 
-```
 
 - 🔭 &nbsp;I build **AI-powered applications** with Python, ML & LLMs
 - 🌱 &nbsp;Deep-diving into **RAG, LangChain, vector databases & NLP**
