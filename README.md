@@ -24,13 +24,19 @@
 
 ## &nbsp; &nbsp;About Me
 
-👋 Hey, I'm Ghislian Chigozie Ibekwe
+👋 Hi, I'm Ghislian Chigozie Ibekwe
 
-I'm an **AI & Machine Learning Engineer** passionate about building intelligent software powered by data.
+I'm an **AI & Machine Learning Engineer** who builds intelligent software that transforms unstructured data into practical, production-ready applications.
 
-I specialize in **Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP) and Python development**. My goal is to build AI systems that solve real world problems from predictive models and intelligent chatbots to document understanding and automation tools.
+My work sits at the intersection of **Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP), and Data Engineering**. I enjoy solving complex problems by designing end-to-end AI systems—from data collection and preprocessing to model development, evaluation, and deployment.
 
-Currently, I'm expanding my expertise in **AI Agents, LLM Engineering, and scalable AI applications**, while sharing my learning through technical writing and open-source projects.
+Over the past few years, I've developed AI solutions across **legal technology, cybersecurity, healthcare, document intelligence, and data analytics**, building applications that leverage predictive modeling, semantic search, vector databases, and modern LLM frameworks. My projects include AI-powered document assistants, legal risk analysis systems, intelligent chatbots, and machine learning applications that deliver measurable results.
+
+I primarily work with **Python, Scikit-learn, Django, LangChain, ChromaDB, Hugging Face, SQL, and Azure ML**, and I'm continually exploring advances in Generative AI, AI Agents, and scalable LLM applications.
+
+Beyond building software, I enjoy breaking down complex technical concepts through technical writing, open-source projects, and continuous learning. I believe the best AI systems are not only accurate—they're reliable, explainable, and built to solve real business problems.
+
+
 
 
 - 🔭 &nbsp;I build **AI-powered applications** with Python, ML & LLMs
