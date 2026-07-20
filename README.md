@@ -26,7 +26,7 @@
 
 👋 Hi, I'm Ghislian Chigozie 
 
-I'm an **AI & Machine Learning Engineer** passionate about building production-ready AI applications that solve real-world problems.
+I'm an **AI & Machine Learning Engineer** passionate about building production ready AI applications that solve real-world problems.
 
 My expertise spans **Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP) and Data Science**. I build end-to-end AI systems from data preprocessing and model development to deployment using **Python, Django, LangChain, ChromaDB, Hugging Face and SQL**.
 
