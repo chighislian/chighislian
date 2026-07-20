@@ -24,7 +24,7 @@
 
 ## &nbsp; &nbsp;About Me
 
-## 👋 Hi, I'm Ghislian Chigozie Ibekwe
+👋 Hi, I'm Ghislian Chigozie Ibekwe
 
 I'm an **AI & Machine Learning Engineer** passionate about building production-ready AI applications that solve real-world problems.
 
