@@ -25,16 +25,14 @@
 ## &nbsp; &nbsp;About Me
 
 ```python
-class Ghislian:
-    def __init__(self):
-        self.role      = "AI / ML Engineer"
-        self.location  = "Owerri, Nigeria"
-        self.focus     = ["Machine Learning", "LLMs", "RAG", "NLP"]
-        self.stack     = ["Python", "PyTorch", "LangChain", "Django"]
-        self.currently = "Building intelligent, data-driven products"
+👋 Hey, I'm Ghislian Chigozie Ibekwe
 
-    def say_hi(self):
-        return "Let's build something impactful together"
+I'm an **AI & Machine Learning Engineer** passionate about building intelligent software powered by data.
+
+I specialize in **Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP), and Python development**. My goal is to build AI systems that solve real-world problems—from predictive models and intelligent chatbots to document understanding and automation tools.
+
+Currently, I'm expanding my expertise in **AI Agents, LLM Engineering, and scalable AI applications**, while sharing my learning through technical writing and open-source projects.
+
 ```
 
 - 🔭 &nbsp;I build **AI-powered applications** with Python, ML & LLMs
