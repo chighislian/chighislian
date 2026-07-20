@@ -24,17 +24,15 @@
 
 ## &nbsp; &nbsp;About Me
 
-👋 Hi, I'm Ghislian Chigozie Ibekwe
+## 👋 Hi, I'm Ghislian Chigozie Ibekwe
 
-I'm an **AI & Machine Learning Engineer** who builds intelligent software that transforms unstructured data into practical, production-ready applications.
+I'm an **AI & Machine Learning Engineer** passionate about building production-ready AI applications that solve real-world problems.
 
-My work sits at the intersection of **Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP), and Data Engineering**. I enjoy solving complex problems by designing end-to-end AI systems—from data collection and preprocessing to model development, evaluation, and deployment.
+My expertise spans **Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP), and Data Science**. I build end-to-end AI systems—from data preprocessing and model development to deployment—using **Python, Django, LangChain, ChromaDB, Hugging Face, and SQL**.
 
-Over the past few years, I've developed AI solutions across **legal technology, cybersecurity, healthcare, document intelligence, and data analytics**, building applications that leverage predictive modeling, semantic search, vector databases, and modern LLM frameworks. My projects include AI-powered document assistants, legal risk analysis systems, intelligent chatbots, and machine learning applications that deliver measurable results.
+I've developed AI solutions across **legal technology, cybersecurity, healthcare, and document intelligence**, including intelligent chatbots, document AI systems, predictive models, and LLM-powered applications.
 
-I primarily work with **Python, Scikit-learn, Django, LangChain, ChromaDB, Hugging Face, SQL, and Azure ML**, and I'm continually exploring advances in Generative AI, AI Agents, and scalable LLM applications.
-
-Beyond building software, I enjoy breaking down complex technical concepts through technical writing, open-source projects, and continuous learning. I believe the best AI systems are not only accurate—they're reliable, explainable, and built to solve real business problems.
+I'm always exploring new advances in **Generative AI, AI Agents, and scalable LLM systems**, while sharing my knowledge through technical writing and open-source projects.
 
 
 
