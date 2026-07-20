@@ -31,8 +31,7 @@ I'm an **AI & Machine Learning Engineer** passionate about building production-r
 My expertise spans **Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP) and Data Science**. I build end-to-end AI systems from data preprocessing and model development to deployment using **Python, Django, LangChain, ChromaDB, Hugging Face and SQL**.
 
 I've developed AI solutions across **legal technology, cybersecurity, healthcare and document intelligence**, including intelligent chatbots, document AI systems, predictive models and LLM powered applications.
-
-I'm always exploring new advances in **Generative AI, AI Agents, and scalable LLM systems**, while sharing my knowledge through technical writing and open source projects.
+I'm currently exploring AI Agents, advanced RAG architectures and scalable LLM systems while sharing my learning through technical writing and open source projects.
 
 - 🔭 Building **AI-powered applications** with **Python, Machine Learning and LLMs**
 - 🌱 &nbsp;Deep-diving into **RAG, AI Agents, LangChain, Vector Databases & NLP**
