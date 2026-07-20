@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,50:1e3a8a,100:1d4ed8&height=220&section=header&text=Ghislian%20Ibekwe&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,50:1e3a8a,100:1d4ed8&height=220&section=header&text=Ghislian%20Chigozie&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header banner"/>
 
 <!-- Typing tagline -->
 <a href="https://ibekwe.netlify.app/">
