@@ -34,7 +34,13 @@ I've developed AI solutions across **legal technology, cybersecurity, healthcare
 
 I'm always exploring new advances in **Generative AI, AI Agents, and scalable LLM systems**, while sharing my knowledge through technical writing and open source projects.
 
-
+- 🔭 Building **AI-powered applications** with **Python, Machine Learning, and LLMs**
+- 🌱 Currently exploring **RAG, AI Agents, LangChain, Vector Databases, and NLP**
+- 🛠️ Developing end-to-end solutions for **Document AI, Chatbots, and Predictive Analytics**
+- ✍️ Sharing insights on **[Dev.to](https://dev.to/ghislian)** and **[Medium](https://medium.com/@chigozieghislian)**
+- 🌐 Explore my portfolio at **[Ghislian.ML](https://ibekwe.netlify.app/)**
+- 🤝 Open to **AI/ML Engineer, Data Scientist, and AI Research** opportunities
+- 💬 Ask me about **Machine Learning • LLMs • RAG • NLP • Python • LangChain • Data Science**
 
 
 - 🔭 &nbsp;I build **AI-powered applications** with Python, ML & LLMs
