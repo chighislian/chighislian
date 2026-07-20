@@ -28,7 +28,7 @@
 
 I'm an **AI & Machine Learning Engineer** passionate about building intelligent software powered by data.
 
-I specialize in **Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP), and Python development**. My goal is to build AI systems that solve real-world problems—from predictive models and intelligent chatbots to document understanding and automation tools.
+I specialize in **Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP) and Python development**. My goal is to build AI systems that solve real world problems from predictive models and intelligent chatbots to document understanding and automation tools.
 
 Currently, I'm expanding my expertise in **AI Agents, LLM Engineering, and scalable AI applications**, while sharing my learning through technical writing and open-source projects.
 
