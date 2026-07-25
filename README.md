@@ -37,7 +37,7 @@ I'm currently exploring AI Agents, advanced RAG architectures and scalable LLM s
 - 🌱 &nbsp;Deep-diving into **RAG, AI Agents, LangChain, Vector Databases & NLP**
 - 🛠️ Developing end-to-end solutions for **Document AI, Chatbots and Predictive Analytics**
 - 📝 &nbsp;I write about what I learn on **[Dev.to](https://dev.to/ghislian)**
-- 🌐 Explore my portfolio at **[Ghislian.ML](https://ibekwe.netlify.app/)**
+- 🌐 Explore my portfolio at **[Ghislian](https://ibekwe.netlify.app/)**
 - 🤝 Open to **AI/ML Engineer, Data Scientist, and AI Research** opportunities
 - 💬 Ask me about **Machine Learning • LLMs • RAG • NLP • Python • LangChain • Data Science**
 
