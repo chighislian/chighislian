@@ -13,7 +13,7 @@
 
 <!-- Status line: what a recruiter actually needs to know -->
 <img src="https://img.shields.io/badge/Open%20to%20Work-1d4ed8?style=flat-square&labelColor=0d1117" alt="open to work"/>
-<a href=""><img src="https://img.shields.io/badge/Resume-0d1117?style=flat-square&logo=readdotcv&logoColor=1d4ed8" alt="resume"/></a>
+<a href="https://drive.google.com/file/d/1eu2_7qvDJzKq2RahSli5LryOYr-vIBwB/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0d1117?style=flat-square&logo=readdotcv&logoColor=1d4ed8" alt="resume"/></a>
 <img src="https://img.shields.io/badge/Remote%20Friendly-0d1117?style=flat-square&logo=googlemeet&logoColor=1d4ed8" alt="remote friendly"/>
 
 </div>
